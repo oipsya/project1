@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'reset_password_page.dart';
 import 'verification_phone_page.dart';
+import 'profile_page.dart';
 
 class VerificationEmailPage extends StatefulWidget {
   final String email;

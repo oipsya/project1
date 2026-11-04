@@ -34,6 +34,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+  image_picker: ^1.2.4
 
 dev_dependencies:
   flutter_test:
@@ -64,6 +65,50 @@ flutter:
       - lib/images/google.png
       - lib/images/phone.png
       - lib/images/pic.jpeg
+      - lib/images/Vector.png
+      - lib/images/solar_gallery-bold.png
+      - lib/images/girl.png
+      - lib/images/robot.png
+      - lib/images/Frame_12.png
+      - lib/images/cuaca.png
+      - lib/images/Component_4.png
+      - lib/images/Frame_83.png
+      - lib/images/Frame_349.png
+      - lib/images/image_13.png
+      - lib/images/header_beranda.png
+      - lib/images/dufan_rate.png
+      - lib/images/map_dufan.png
+      - lib/images/dufan_detail.png
+      - lib/images/Frame_21.png
+      - lib/images/image.png
+      - lib/images/Component_25.png
+      - lib/images/Component_27.png
+      - lib/images/Frame_330.png
+      - lib/images/Group_63.png
+      - lib/images/Cuaca_Icon.png
+      - lib/images/Group_198.png
+      - lib/images/matahari.png
+      - lib/images/ojek.png
+      - lib/images/Component_21.png
+      - lib/images/Framewisata.png
+      - lib/images/Frame_51.png
+      - lib/images/Frame_48.png
+      - lib/images/image_15.png
+      - lib/images/image_16.png
+      - lib/images/image_32.png
+      - lib/images/TAXI.png
+      - lib/images/Frame_30.png
+      - lib/images/kendaraan_pribadi.jpg
+      - lib/images/motor.jpg
+      - lib/images/mobil.jpg
+      - lib/images/taxi.jpg
+      - lib/images/jaklingko.jpg
+      - lib/images/krl.jpg
+      - lib/images/lrt.jpg
+      - lib/images/mrt.jpg
+      - lib/images/ojeek.jpeg
+
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
